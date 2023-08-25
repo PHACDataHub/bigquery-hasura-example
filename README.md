@@ -7,7 +7,7 @@ Using Hasura on Big Query
 * Create a json key
 
 2. Environment Variables
-* Add key to BIGQUERY_SA_ACCOUNT variable in .env, assign PROJECT_ID the GCP project ID
+* Add key to BIGQUERY_SA_ACCOUNT variable and add your GCP project ID to PROJECT_ID in .env
 
 ### To use
 Start up
