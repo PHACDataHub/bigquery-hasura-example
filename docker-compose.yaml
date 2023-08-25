@@ -30,7 +30,6 @@ services:
       # the following are pulled from the .env file
       BIGQUERY_SA_ACCOUNT: ${BIGQUERY_SA_ACCOUNT}
       PROJECT_ID: ${PROJECT_ID}
-      BIGQUERY_DATASETS: ${BIGQUERY_DATASETS}
 
 
     depends_on:
