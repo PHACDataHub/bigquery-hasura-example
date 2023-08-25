@@ -1,4 +1,4 @@
-## Using Hasura on Big Query 
+## Using Hasura with Big Query 
 
 *Note - some better instructions in the Hasura docs listed in the referenece section, these are just quick notes*
 ### Set up 
