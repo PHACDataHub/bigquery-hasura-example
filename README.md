@@ -1,5 +1,6 @@
-Using Hasura on Big Query 
+## Using Hasura on Big Query 
 
+*Note - some better instructions in the Hasura docs listed in the referenece section, these are just quick notes*
 ### Set up 
 1. Set up service account
 * IAM & Admin > Service Accounts > Create Service Account
@@ -33,7 +34,6 @@ docker compose down -v
 * Deploy (https://hasura.io/docs/latest/deployment/deployment-guides/kubernetes/, https://hasura.io/docs/latest/deployment/deployment-guides/google-kubernetes-engine-cloud-sql/)
 
 ### References
-Grant roles:
 * https://hasurahq.medium.com/tutorial-get-instant-graphql-apis-on-bigquery-with-hasurax-eb18f068bb7a
 * https://hasura.io/docs/latest/databases/bigquery/getting-started/docker/
 * https://hasura.io/docs/latest/deployment/deployment-guides/docker/#run-the-docker-container-with-an-admin-secret-env-var
